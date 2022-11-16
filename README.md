@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @norazlinkamal
 - 👀 I’m a highly-motivated individual with passion in exploring data.
-- 🌱 I’m currently learning seeking an entry level career opportunity to expand my knowledge.
+- 🌱 I’m currently seeking an entry level career opportunity to expand my knowledge.
 - 💞️ I’m looking to develop my software and data science skills with a keen interest in Data Science and Data Analytics.
 
 <!---
